@@ -1,4 +1,4 @@
-![sean-oulashin-KMn4VEeEPR8-unsplash](https://github.com/user-attachments/assets/67539079-528a-4065-8e4c-ca1d217091d1)<img src="https://github.com/goldenTim5/goldenTim5/main/banner.png" alt="Timothy Lance Cato - Frontend Developer" width="100%"/>
+<img src="https://github.com/goldenTim5/goldenTim5/blob/main/banner.png" alt="Timothy Lance Cato - Frontend Developer" width="100%"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+👋;+I'm+Timothy+Cato!;+Senior+Frontend+Engineer+%F0%9F%92%BB;React+%2B+TypeScript+Expert+%F0%9F%9A%80" />
