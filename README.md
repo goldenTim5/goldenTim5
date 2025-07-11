@@ -16,7 +16,6 @@
 
 ## 💡 About Me
 
-- 🔭 I’m currently building predictive football analytics UIs using **React + D3.js**
 - 🌱 I’m exploring advanced **system design** and performance optimization
 - 👨‍🏫 I’ve led teams, mentored devs, and love clean, maintainable code
 - 💬 Ask me about **React, TypeScript, D3.js, WCAG, or architecture best practices**
@@ -29,16 +28,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,d3,vue,html,css,sass,tailwind,redux,javascript,graphql,nodejs,figma,git,postman,jira" />
 </p>
-
----
-
-## 🔥 Stats
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TimothyCato&theme=transparent&count_private=true&show_icons=true&rank_icon=github" alt="TimothyCato's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TimothyCato&theme=transparent&border_radius=10" alt="TimothyCato's Streak Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=TimothyCato&layout=donut&hide=css&langs_count=8&border_radius=10" alt="Top Languages" />
-</div>
 
 ---
 
