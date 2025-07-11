@@ -12,6 +12,7 @@
   </span>
 </div>
 
+---
 
 ## 💡 About Me
 
