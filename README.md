@@ -4,7 +4,7 @@
   </span>
   <span>
     <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+👋;+I'm+Timothy+Cato!;+Senior+Frontend+Engineer+%F0%9F%92%BB;React+%2B+TypeScript+Expert+%F0%9F%9A%80" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+👋;+I'm+Timothy+Cato!;+Senior+Full+Stack+Engineer+%F0%9F%92%BB;React+%2B+TypeScript+Expert+%F0%9F%9A%80" />
     </h1>
     <p align="center">
       🚀 Building fast, scalable, and accessible web experiences with React, TypeScript, and modern frontend stacks.
