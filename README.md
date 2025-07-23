@@ -1,8 +1,5 @@
 <div>
   <span>
-    <img src="https://github.com/goldenTim5/goldenTim5/blob/main/banner.png" alt="Timothy Lance Cato - Full Stack Developer" width="100%" />
-  </span>
-  <span>
     <h1 align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+👋;+I'm+Timothy+Cato!;+Senior+Full+Stack+Engineer+%F0%9F%92%BB;React+%2B+TypeScript+Specialist+%F0%9F%9A%80" />
     </h1>
