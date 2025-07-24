@@ -31,7 +31,7 @@
 
 ## 🧰 Featured Projects
 
-- 📱 [**Cross-Platform Integration Dashboard**](https://github.com/TimothyCato)  
+- 📱 [**Boiler for Cross-Platform Integration Dashboard**](https://github.com/goldenTim5/RN-query-boiler-for-Enterprise-Integration-Dashboard)  
   React Native | Zustand | WebSocket | Offline Sync | WCAG Accessibility
 
 - 🌐 [**Unified API Portal**](https://github.com/TimothyCato)  
